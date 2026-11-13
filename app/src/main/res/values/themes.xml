@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Platform theme only; the real theming is done in Compose (CampusMarketTheme). -->
+    <style name="Theme.CampusMarket" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FAFAFF</item>
+    </style>
+</resources>
